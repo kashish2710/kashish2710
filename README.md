@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi there, I'm Kashish</h2>
 
 <p align="center">
-  🌱 AI & C++ Enthusiast | 💻 Software Developer Intern | 🚀 Problem Solver  
+  🌱 AI & C++ Enthusiast | 💻 IT sophomore. | 🚀 Problem Solver  
 </p>
 
 ---
