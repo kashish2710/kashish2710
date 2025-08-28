@@ -9,7 +9,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 I'm a student at **Netaji Subhas University of Technology (NSUT)**
-- 💼 Currently a **Software Development Intern** working on:
+- 💼 worked as **Software Development Intern** on:
   - 🧠 A dynamic **MX-Quadtree** based spatial data structure
   - 🔗 Integrated with **Boost Graph Library** for efficient spatial partitioning and path queries
 - 📱 Built **Park-Genie**: a smart parking assistant that shows real-time unreserved parking slots, predictions, ratings & payment integration
