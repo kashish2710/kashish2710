@@ -1,60 +1,96 @@
-<h2 align="center">👋 Hi there, I'm Kashish</h2>
+<div align="center">
 
-<p align="center">
-  🌱 AI & C++ Enthusiast | 💻 IT sophomore. | 🚀 Problem Solver  
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=800&color=F78FB3&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Kashish;Web+Developer+%7C+ML+Learner+%7C+Open+Source;Building+Clean+and+Meaningful+Projects+%E2%9C%A8" />
+
+</div>
+
+---
+
+## 🌸 About Me
+
+- 🎓 Student at **Netaji Subhas University of Technology (NSUT)**
+- 💻 **Web Developer** & **Beginner in Machine Learning**
+- 🚀 Currently doing an **Internship**, gaining hands-on development experience
+- 🌱 Actively learning through **projects & open-source (MDN, GitHub)**
+- ✨ I enjoy building clean, structured, and real-world usable systems
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,python,cpp&theme=light" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## 📂 Featured Projects
 
-- 🎓 I'm a student at **Netaji Subhas University of Technology (NSUT)**
-- 💼 worked as **Software Development Intern** on:
-  - 🧠 A dynamic **MX-Quadtree** based spatial data structure
-  - 🔗 Integrated with **Boost Graph Library** for efficient spatial partitioning and path queries
-- 📱 Built **Park-Genie**: a smart parking assistant that shows real-time unreserved parking slots, predictions, ratings & payment integration
-- ☕ Built **Coffee Beans**: a clean coffee shop landing page using HTML, CSS & JavaScript
-- 🤝 Passionate about building useful products and solving real-world problems with code
+### 🔷 [MX-Quadtree + Channel Graph Integration](https://github.com/kashish2710/Quadtree-ChannelGraph)
+**C++ | Data Structures | Boost Graph Library**
 
----
+> A complete spatial data-structure project implementing **MX-Quadtree** with  
+> **Boost Graph–based channel partitioning** and a CLI interface.
 
-### 🧰 Tech Stack
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Boost](https://img.shields.io/badge/Boost-1389fd?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+✔️ Point **insert / search / delete**  
+✔️ Rectangle & **net intersection queries**  
+✔️ Path-to-root traversal  
+✔️ Optimized recursive spatial querying  
+✔️ Designed for scalable spatial indexing problems
 
 ---
 
-### 📂 Featured Projects
+### 🅿️ [Park-Genie](https://github.com/kashish2710/park-genie)
+**Web Application | Smart Parking System**
 
-#### 🔷 [MX-Quadtree + Channel Graph Integration](https://github.com/kashish2710/Quadtree-ChannelGraph)
-> A complete C++ project using MX-Quadtree with spatial partitioning, Boost Graph integration, and CLI-based spatial queries.  
-✔️ Supports insert/search/delete, net intersection, and path queries using Boost Graph.
+> A smart parking web app that shows **real-time availability of unreserved slots**
+> in offices and malls.
 
-#### 🅿️ [Park-Genie](https://github.com/kashish2710/park-genie)
-> A smart parking web app that displays real-time availability of unreserved slots in offices/malls.  
-🚘 Features AI predictions, payment gateway integration, ratings, and "Find My Car".
-
-#### ☕ [Coffee Beans](https://github.com/kashish2710/Coffee_Beans-)
-> A sleek, responsive coffee shop landing page built with HTML, CSS, and JS.  
-📱 Ideal for café web design demos.
+🚘 AI-based availability prediction  
+💳 Payment gateway integration  
+⭐ User ratings & feedback  
+📍 “Find My Car” feature
 
 ---
 
-### 📊 GitHub Stats
+### ☕ [Coffee Beans](https://github.com/kashish2710/Coffee_Beans-)
+**Frontend | HTML • CSS • JavaScript**
+
+> A sleek and responsive coffee shop landing page inspired by Starbucks.  
+📱 Mobile-friendly design  
+🎨 Clean UI for café / brand demos
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashish2710&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish2710&layout=compact&theme=tokyonight" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=kashish2710&show_icons=true&theme=tokyonight&border_radius=12" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kashish2710&theme=tokyonight&border_radius=12" width="48%" />
 </p>
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kashish2710.visitor-badge)
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/kashish-kashish-a6ba40308/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:hsihsak2710@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://github.com/kashish2710">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
+✨ *Learning. Building. Improving — one commit at a time.* ✨  
+
+</div>
+
 
