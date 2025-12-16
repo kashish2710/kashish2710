@@ -1,6 +1,6 @@
 <!-- 🌈 Top Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F78FB3&height=220&section=header&text=Kashish&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB3DE&height=200&section=header&text=Kashish&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <!-- ✨ Typing Animation -->
@@ -81,10 +81,13 @@ src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code
 <p align="left">
   <a href="https://www.linkedin.com/in/kashish-kashish-a6ba40308/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+    
   </a>
+  <br><br>
   <a href="mailto:hsihsak2710@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+    <br><br>
   <a href="https://github.com/kashish2710">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
