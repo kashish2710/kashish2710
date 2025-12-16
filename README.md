@@ -1,7 +1,8 @@
 <!-- 🌈 Top Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=FF9A9E,FFC3A0,FFD6A5&height=200&section=header&text=Kashish&fontSize=42&fontColor=ffffff&animation=wave&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7C8E0&height=200&section=header&text=Kashish&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
+
 
 
 <!-- ✨ Typing Animation -->
