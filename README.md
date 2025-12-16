@@ -10,7 +10,7 @@
 
 <!-- 👩‍💻 Side Illustration -->
 <img align="right" width="300"
-src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+src="https://undraw.co/api/illustrations/undraw_programming_re_kg9v.svg" />
 
 ---
 
@@ -18,7 +18,7 @@ src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code
 
 - 🎓 Student at **Netaji Subhas University of Technology (NSUT)**
 - 💻 **Web Developer** | **ML Beginner**
-- 🚀 Currently doing an **Internship**
+- 🚀 Completed an **Internship** for gaining industry level experience.
 - 🌱 Learning via **real-world projects & open source**
 - ✨ I love mixing **clean code + aesthetic design**
 
