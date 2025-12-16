@@ -8,9 +8,9 @@
 
 ## 🌸 About Me
 
-- 🎓 Student at **Netaji Subhas University of Technology (NSUT)**
+- 🎓 IT Student at **Netaji Subhas University of Technology (NSUT)**
 - 💻 **Web Developer** & **Beginner in Machine Learning**
-- 🚀 Currently doing an **Internship**, gaining hands-on development experience
+- 🚀 Completed an **Internship**, gaining hands-on development experience
 - 🌱 Actively learning through **projects & open-source (MDN, GitHub)**
 - ✨ I enjoy building clean, structured, and real-world usable systems
 
