@@ -10,7 +10,8 @@
 
 <!-- 👩‍💻 Side Illustration -->
 <img align="right" width="300"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/undraw/undraw_coding_re_iv62.svg" />
+src="https://raw.githubusercontent.com/DenisNovac/Free-GIFs/main/female-programmer.gif" />
+
 
 
 ## Hi 👋 I'm Kashish  
