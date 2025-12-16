@@ -1,11 +1,7 @@
 <!-- 🌈 Top Animated Banner -->
-<!-- <p align="center">
+ <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB3DE&height=200&section=header&text=Kashish&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</p> -->
-<!-- 🎀 Cute GitHub Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/undraw/undraw_coder_life_re_6yau.svg" width="100%"/>
-</p>
+</p> 
 
 <!-- ✨ Typing Animation -->
 <p align="center">
@@ -13,10 +9,9 @@
 </p>
 
 <!-- 👩‍💻 Side Illustration -->
+<img align="right" width="300"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/undraw/undraw_coding_re_iv62.svg" />
 
-<!-- 👩‍💻 Female Coder Illustration -->
-<img align="right" width="280"
-src="https://raw.githubusercontent.com/DenisNovac/Free-GIFs/main/female-programmer.gif" />
 
 ## Hi 👋 I'm Kashish  
 Web Developer | ML Learner | Open Source Contributor
