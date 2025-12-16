@@ -1,6 +1,6 @@
 <!-- 🌈 Top Animated Banner -->
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB3DE&height=200&section=header&text=Kashish&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E7ACCF&height=200&section=header&text=Kashish&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p> 
 
 <!-- ✨ Typing Animation -->
@@ -9,15 +9,15 @@
 </p>
 
 <!-- 👩‍💻 Side Illustration -->
-<img align="right" width="300"
-src="https://raw.githubusercontent.com/DenisNovac/Free-GIFs/main/female-programmer.gif" />
+<!-- <img align="right" width="300"
+src="https://raw.githubusercontent.com/DenisNovac/Free-GIFs/main/female-programmer.gif" /> -->
 
 
 
 
+<p align="center">## Hi 👋 I'm Kashish  
+Web Developer | ML Learner | Open Source Contributor</p>
 
-## Hi 👋 I'm Kashish  
-Web Developer | ML Learner | Open Source Contributor
 
 
 
