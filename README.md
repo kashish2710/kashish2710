@@ -94,12 +94,12 @@ Web Developer | ML Learner | Open Source Contributor</p>
   <a href="https://www.linkedin.com/in/kashish-kashish-a6ba40308/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
     
-  </a>
-  <br><br>
-  <a href="mailto:hsihsak2710@gmail.com">
+  </a><t>
+
+  <!-- <a href="mailto:hsihsak2710@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-    <br><br>
+  </a> -->
+  
   <a href="https://github.com/kashish2710">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
