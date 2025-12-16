@@ -10,7 +10,8 @@
 
 <!-- 👩‍💻 Side Illustration -->
 <img align="right" width="300"
-src="https://undraw.co/api/illustrations/undraw_programming_re_kg9v.svg" />
+src="https://storyset.com/illustration/developer_girl/3d" />
+
 
 ---
 
