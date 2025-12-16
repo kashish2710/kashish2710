@@ -64,10 +64,9 @@ Web Developer | ML Learner | Open Source Contributor</p>
 
 > Displays **real-time parking availability** for offices & malls.
 
-🚘 AI-based predictions  
-💳 Payment gateway integration  
+🚘 AI-based predictions   
 ⭐ Ratings & feedback  
-📍 Find My Car feature  
+📍 availability time for parking slot 
 
 ---
 
@@ -75,7 +74,7 @@ Web Developer | ML Learner | Open Source Contributor</p>
 **Frontend | HTML • CSS • JavaScript**
 
 > A sleek, responsive coffee landing page inspired by Starbucks.  
-📱 Mobile-friendly • 🎨 Clean UI
+inspired by starbucks• 🎨 Clean UI
 
 ---
 
