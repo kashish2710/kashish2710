@@ -1,7 +1,8 @@
 <!-- 🌈 Top Animated Banner -->
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E7ACCF&height=200&section=header&text=Kashish&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</p> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=FF9A9E,FFC3A0,FFD6A5&height=200&section=header&text=Kashish&fontSize=42&fontColor=ffffff&animation=wave&fontAlignY=38" />
+</p>
+
 
 <!-- ✨ Typing Animation -->
 <p align="center">
@@ -15,7 +16,7 @@ src="https://raw.githubusercontent.com/DenisNovac/Free-GIFs/main/female-programm
 
 
 
-<p align="center">## Hi 👋 I'm Kashish  
+<p align="center"> Hi 👋 I'm Kashish  <br>
 Web Developer | ML Learner | Open Source Contributor</p>
 
 
