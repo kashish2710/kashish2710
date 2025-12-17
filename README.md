@@ -1,113 +1,72 @@
-<!-- 🌈 Top Animated Banner -->
+<!-- Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=00C9FF,92FE9D,FF9A9E&height=200&section=header&text=Kashish&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Kashish&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-
-
-
-<!-- ✨ Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=800&color=F78FB3&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Kashish;Web+Developer+%7C+ML+Learner+%7C+Open+Source;Building+Pretty+%26+Powerful+Projects+%E2%9C%A8" />
-</p>
-
-<!-- 👩‍💻 Side Illustration -->
-<!-- <img align="right" width="300"
-src="https://raw.githubusercontent.com/DenisNovac/Free-GIFs/main/female-programmer.gif" /> -->
-
-
-
-
-<p align="center"> Hi 👋 I'm Kashish  <br>
-Web Developer | ML Learner | Open Source Contributor</p>
-
-
-
-
----
-
-## 🌸 About Me
-
-- 🎓 Student at **Netaji Subhas University of Technology (NSUT)**
-- 💻 **Web Developer** | **ML Beginner**
-- 🚀 Completed an **Internship** for gaining industry level experience.
-- 🌱 Learning via **real-world projects & open source**
-- ✨ I love mixing **clean code + aesthetic design**
-
----
-
-## 🛠 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,python,cpp&theme=light" />
-</p>
-
----
-
-## 📂 Featured Projects
-
-### 🔷 [MX-Quadtree + Channel Graph Integration](https://github.com/kashish2710/Quadtree-ChannelGraph)
-**C++ | Data Structures | Boost Graph Library**
-
-> A complete spatial data-structure project implementing **MX-Quadtree**
-> with **Boost Graph–based channel partitioning** and a CLI interface.
-
-✔️ Insert / Search / Delete  
-✔️ Rectangle & Net Intersection Queries  
-✔️ Path-to-root traversal  
-✔️ Optimized recursive spatial querying  
-
----
-
-### 🅿️ [Park-Genie](https://github.com/kashish2710/park-genie)
-**Smart Parking Web App**
-
-> Displays **real-time parking availability** for offices & malls.
-
-🚘 AI-based predictions   
-⭐ Ratings & feedback  
-📍 availability time for parking slot 
-
----
-
-### ☕ [Coffee Beans](https://github.com/kashish2710/Coffee_Beans-)
-**Frontend | HTML • CSS • JavaScript**
-
-> A sleek, responsive coffee landing page inspired by Starbucks.  
-inspired by starbucks• 🎨 Clean UI
-
----
-
-## 📊 GitHub Stats
+<h2 align="center">Hi 👋, I'm Kashish</h2>
+<h4 align="center">
+Web Developer • Open Source Contributor • MDN | GSOC Aspirant
+</h4>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashish2710&show_icons=true&theme=tokyonight&border_radius=12" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashish2710&theme=tokyonight&border_radius=12" width="48%" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/kashish-kashish-a6ba40308/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-    
-  </a><t>
-
-  <!-- <a href="mailto:hsihsak2710@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a> -->
-  
   <a href="https://github.com/kashish2710">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://komarev.com/ghpvc/?username=kashish2710&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
 </p>
 
 ---
 
-<div align="center">
+## 🌱 About Me
+- 🎓 Student at **Netaji Subhas University of Technology**
+- 💻 Strong in **HTML, CSS, JavaScript**
+- 🌍 Active **MDN Web Docs contributor**
+- 🧠 Exploring **Open Source & GSOC**
+- ✨ Love clean docs, specs & frontend clarity
 
-💖 *Code. Create. Grow.* 💖  
+---
 
-</div>
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github" />
+</p>
+
+---
+
+## 📌 Open Source
+- ✅ MDN Web Docs (CSS / WebAPI documentation)
+- 🔍 Focus: wording clarity, spec alignment, examples
+- 🧩 Domains: **CSS, Web APIs, JavaScript**
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kashish2710&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish2710&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashish2710&theme=tokyonight"/>
+</p>
+
+---
+
+## 👩‍💻 Coding Vibes
+<img align="right" width="320"
+src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
+- Writing clean, readable code ✨  
+- Learning through **real contributions**
+- Building strong OSS profile for **GSOC**
+
+---
+
+## 📫 Contact With Me
+- 📧 Email: hsihsak2710@gmail.com
+- 💼 GitHub: [@kashish2710](https://github.com/kashish2710)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer"/>
+</p>
