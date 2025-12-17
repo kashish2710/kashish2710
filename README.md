@@ -1,11 +1,16 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kashish2710/kashish2710/main/banner.jpeg" />
+  <img src="https://raw.githubusercontent.com/kashish2710/kashish2710/main/_%20(2).jpeg" alt="banner" />
 </p>
 
+<h2 align="center">👋 Hi, I'm Kashish</h2>
 
-<h2 align="center">Hi 👋, I'm Kashish</h2>
 <p align="center">
-   Web Developer |  C++ & Boost |  Open Source Contributor
+  🌱 AI & C++ Enthusiast &nbsp;•&nbsp; 💻 IT Sophomore &nbsp;•&nbsp; 🚀 Problem Solver  
+</p>
+
+<p align="center">
+  🟣 <strong>MDN Web Docs Contributor</strong> &nbsp;|&nbsp;
+  🔵 <strong>Boost C++ Open Source Contributor</strong>
 </p>
 
 ---
@@ -13,66 +18,58 @@
 ## 👩‍💻 About Me
 
 - 🎓 Student at **Netaji Subhas University of Technology (NSUT)**
-- 💻 Web Developer (MERN Stack)
-- 🧠 Strong in **C++, Data Structures & Spatial Algorithms**
-- 🔗 Built **MX-Quadtree** integrated with **Boost Graph Library**
-- ☕ Creator of **Coffee Beans** – Starbucks-inspired responsive website
-- 🅿️ Built **Park-Genie** – smart parking system with predictions & payments
-- 🌍 Passionate **Open Source Contributor**
+- 🧠 Strong interest in **systems, C++, graphs & spatial data structures**
+- 💼 Worked as **Software Development Intern**
+- 🤝 Active **Open Source Contributor** (MDN Web Docs, Boost C++)
+
+### 🧠 Open Source Contributions
+- 🟣 **MDN Web Docs**
+  - Improved CSS documentation clarity & spec alignment
+  - Fixed misleading examples related to trigonometric functions & stacking context
+- 🔵 **Boost C++ (boostorg/geometry)**
+  - ✔️ Added regression test for non-overlapping polygon intersection (Issue #1439)
+  - ✔️ PRs reviewed & approved by Boost maintainers
+  - Experience contributing to **production-grade C++ OSS**
 
 ---
 
-## 🌍 Open Source Contributions
-
-### 🟣 MDN Web Docs
-- Fixed documentation inaccuracies & edge cases
-- Improved clarity of **CSS Math & Trigonometric functions**
-- Worked closely with maintainers via PR reviews & CI checks
-
-### 🔵 Boost / C++ Open-Source Contributions
-
-🧩 Contributor to boostorg/geometry
-🧪 Worked on geometry overlay & intersection edge cases
-📐 Improved regression test coverage for computational geometry bugs
-🔍 Experience collaborating with maintainers via reviews & CI feedback
-
----
-
-## 🛠 Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html&theme=light" />
-  <img src="https://skillicons.dev/icons?i=css&theme=light" />
-  <img src="https://skillicons.dev/icons?i=js&theme=light" />
-  <img src="https://skillicons.dev/icons?i=react&theme=light" />
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" />
-  <img src="https://skillicons.dev/icons?i=express&theme=light" />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
-  <img src="https://skillicons.dev/icons?i=cpp&theme=light" />
-  <img src="https://skillicons.dev/icons?i=python&theme=light" />
-  <img src="https://skillicons.dev/icons?i=git&theme=light" />
-  <img src="https://skillicons.dev/icons?i=github&theme=light" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,boost,git,html,css,js,react,nodejs,express,mongodb,vscode&theme=dark" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 📂 Featured Projects
 
-### 🧠 MX-Quadtree + Boost Graph
-C++ spatial data structure using MX-Quadtree with Boost Graph integration  
-✔ Insert / Search / Delete  
-✔ Net & L-Net Intersection  
-✔ CLI-based spatial queries  
+### 🔷 MX-Quadtree + Channel Graph Integration (C++)
+> Advanced spatial data structure using **MX-Quadtree** integrated with **Boost Graph Library**
+
+- Recursive subdivision & spatial partitioning
+- Insert / search / delete operations
+- Net & L-net intersection queries
+- Graph-based partition management using Boost  
 🔗 https://github.com/kashish2710/Quadtree-ChannelGraph
 
-### 🅿️ Park-Genie
-Smart parking assistant with AI predictions, payments & ratings  
+---
+
+### 🅿️ Park-Genie (Web + AI)
+> Smart parking assistant web app
+
+- 🚗 Real-time unreserved slot availability
+- 📊 AI-based parking predictions
+- ⭐ Ratings and comments feature  
 🔗 https://github.com/kashish2710/park-genie
 
+---
+
 ### ☕ Coffee Beans
-Responsive coffee shop landing page (HTML, CSS, JS)  
+> Clean & Starbucks inspired coffee shop landing page
+
+- HTML, CSS, JavaScript
+- Smooth UI & animations
+- Café-style design demo  
 🔗 https://github.com/kashish2710/Coffee_Beans-
 
 ---
@@ -80,41 +77,20 @@ Responsive coffee shop landing page (HTML, CSS, JS)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kashish2710&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish2710&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashish2710&theme=github_dark" />
 </p>
 
----
-
-## 🔥 Contribution Streak
-
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashish2710&theme=tokyonight" />
-</p> -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kashish2710&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashish2710&bg_color=0d1117&color=9b59b6&line=bb86fc&point=ffffff&area=true&hide_border=true" />
 </p>
 
----
-
-## 📈 Contribution Graph
-
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashish2710&theme=tokyo-night" />
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashish2710&bg_color=0d1117&color=9b59b6&line=bb86fc&point=f5f5f5&area=true&hide_border=true" />
-</p> -->
-
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashish2710&bg_color=0d1117&color=9b59b6&line=bb86fc&point=f5f5f5&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kashish2710&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish2710&layout=compact&theme=github_dark" width="48%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kashish2710.profile" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kashish2710.kashish2710" />
 </p>
-
