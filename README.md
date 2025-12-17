@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://raw.githubusercontent.com/kashish2710/kashish2710/main/banner.jpeg" alt="banner" />
+  <img src="https://raw.githubusercontent.com/kashish2710/kashish2710/main/banner.jpeg" width="100%" alt="banner" />
 </p> 
 <!-- <p align="center">
   <img src="https://assets10.lottiefiles.com/packages/lf20_9rykj4zp.json" width="600" alt="Coding Animation"/>
