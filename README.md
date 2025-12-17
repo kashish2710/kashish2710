@@ -8,10 +8,10 @@
   🌱 AI & C++ Enthusiast &nbsp;•&nbsp; 💻 IT Sophomore &nbsp;•&nbsp; 🚀 Problem Solver  
 </p>
 
-<p align="center">
+<!-- <p align="center">
   🟣 <strong>MDN Web Docs Contributor</strong> &nbsp;|&nbsp;
   🔵 <strong>Boost C++ Open Source Contributor</strong>
-</p>
+</p> -->
 
 ---
 
@@ -80,13 +80,22 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashish2710&theme=github_dark" />
 </p>
 
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashish2710&bg_color=0d1117&color=9b59b6&line=bb86fc&point=ffffff&area=true&hide_border=true" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kashish2710&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish2710&layout=compact&theme=github_dark" width="48%" />
+</p>
+## 📊 GitHub Activity
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashish2710&bg_color=0d1117&color=9b59b6&line=bb86fc&point=ffffff&area=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashish2710&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish2710&layout=compact&theme=github_dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish2710&layout=donut&theme=github_dark" />
 </p>
 
 ---
