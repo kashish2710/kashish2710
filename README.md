@@ -1,9 +1,9 @@
-<!-- <p align="center">
+ <p align="center">
   <img src="https://raw.githubusercontent.com/kashish2710/kashish2710/main/banner.jpeg" alt="banner" />
-</p> -->
-<p align="center">
+</p> 
+<!-- <p align="center">
   <img src="https://assets10.lottiefiles.com/packages/lf20_9rykj4zp.json" width="600" alt="Coding Animation"/>
-</p>
+</p> -->
 
 <h2 align="center">👋 Hi, I'm Kashish</h2>
 
