@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kashish2710/kashish2710/main/_(2).jpeg" />
+  <img src="https://raw.githubusercontent.com/kashish2710/kashish2710/main/banner.jpeg" />
 </p>
+
 
 <h2 align="center">Hi 👋, I'm Kashish</h2>
 <p align="center">
@@ -87,16 +88,28 @@ Responsive coffee shop landing page (HTML, CSS, JS)
 
 ## 🔥 Contribution Streak
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashish2710&theme=tokyonight" />
+</p> -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kashish2710&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashish2710&theme=tokyo-night" />
+</p> -->
+
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashish2710&bg_color=0d1117&color=9b59b6&line=bb86fc&point=f5f5f5&area=true&hide_border=true" />
+</p> -->
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashish2710&bg_color=0d1117&color=9b59b6&line=bb86fc&point=f5f5f5&area=true&hide_border=true" />
 </p>
 
 ---
