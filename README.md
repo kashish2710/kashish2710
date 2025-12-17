@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center">
-  <img src="_(2).jpeg" width="100%" alt="Girl Developer Workspace"/>
+  <img src="_(2).jpeg"  alt="Girl Developer Workspace"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Kashish</h1>
