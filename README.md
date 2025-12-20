@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=220&section=header&text=Kashish%20👩‍💻&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/kashish2710/kashish2710/output/github-contribution-grid-snake-dark.svg" />
-</p>
+</p> -->
 
 <h2 align="center">👋 Hi, I'm Kashish</h2>
 
@@ -73,11 +73,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kashish2710&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
@@ -116,12 +112,7 @@
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail" />
-  </a>
+ 
 </p>
 
 ---
