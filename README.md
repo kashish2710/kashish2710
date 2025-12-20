@@ -91,9 +91,9 @@
 
 ## 💻 Latest Coding Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashish2710&theme=github-dark" />
-</p>
+- Actively working on C++ data structures & algorithms
+- Contributing to documentation and OSS maintenance
+- Exploring AI + systems programming
 
 ---
 
@@ -134,14 +134,3 @@
 
 ---
 
-## 🎲 Random Dev Meme
-
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kashish2710.kashish2710" />
-</p>
