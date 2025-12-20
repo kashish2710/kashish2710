@@ -1,20 +1,16 @@
- <p align="center">
-  <img src="https://raw.githubusercontent.com/kashish2710/kashish2710/main/banner.jpeg" width="100%" alt="banner" />
-</p> 
-<!-- <p align="center">
-  <img src="https://assets10.lottiefiles.com/packages/lf20_9rykj4zp.json" width="600" alt="Coding Animation"/>
-</p> -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=220&section=header&text=Kashish%20👩‍💻&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kashish2710/kashish2710/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <h2 align="center">👋 Hi, I'm Kashish</h2>
 
 <p align="center">
-  🌱 AI & C++ Enthusiast &nbsp;•&nbsp; 💻 IT Sophomore &nbsp;•&nbsp; 🚀 Problem Solver  
+  🌱 AI & C++ Enthusiast &nbsp;•&nbsp; 💻 IT Sophomore &nbsp;•&nbsp; 🚀 Problem Solver
 </p>
-
-<!-- <p align="center">
-  🟣 <strong>MDN Web Docs Contributor</strong> &nbsp;|&nbsp;
-  🔵 <strong>Boost C++ Open Source Contributor</strong>
-</p> -->
 
 ---
 
@@ -77,6 +73,30 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kashish2710&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Metrics
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/kashish2710?template=classic&base.activity=1&base.community=1&base.repositories=1&config.timezone=Asia%2FKolkata" />
+</p>
+
+---
+
+## 💻 Latest Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashish2710&theme=github-dark" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -84,23 +104,41 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish2710&layout=donut&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kashish2710&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish2710&layout=donut&theme=github_dark" width="48%" />
 </p>
 
+---
 
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashish2710&bg_color=0d1117&color=9b59b6&line=bb86fc&point=ffffff&area=true&hide_border=true" />
-</p> -->
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashish2710&show_icons=true&theme=github_dark" width="48%" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish2710&layout=compact&theme=github_dark" width="48%" /> -->
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
+---
 
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashish2710&bg_color=0d1117&color=9b59b6&line=bb86fc&point=ffffff&area=true&hide_border=true" />
-</p> -->
+## 💡 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+## 🎲 Random Dev Meme
+
+<p align="center">
+  <img src="https://random-memer.herokuapp.com/" />
+</p>
 
 ---
 
