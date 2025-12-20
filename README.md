@@ -77,11 +77,7 @@
 
 ---
 
-## 📈 Contribution Metrics
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/kashish2710?template=classic&base.activity=1&base.community=1&base.repositories=1&config.timezone=Asia%2FKolkata" />
-</p>
 
 ---
 
