@@ -21,11 +21,11 @@
 - 💼 Worked as **Software Development Intern**
 - 🤝 Active **Open Source Contributor** (MDN Web Docs, Boost C++)
 
-### 🧠 Open Source Contributions
-- 🟣 **MDN Web Docs**
+### Open Source Contributions
+-  **MDN Web Docs**
   - Improved CSS documentation clarity & spec alignment
   - Fixed misleading examples related to trigonometric functions & stacking context
-- 🔵 **Boost C++ (boostorg/geometry)**
+-  **Boost C++ (boostorg/geometry)**
   - ✔️ Added regression test for non-overlapping polygon intersection (Issue #1439)
   - ✔️ PRs reviewed & approved by Boost maintainers
   - Experience contributing to **production-grade C++ OSS**
