@@ -9,7 +9,7 @@
 <h2 align="center">👋 Hi, I'm Kashish</h2>
 
 <p align="center">
-  🌱 AI & C++ Enthusiast &nbsp;•&nbsp; 💻 IT Sophomore &nbsp;•&nbsp; 🚀 Problem Solver
+  🌱 AI, LLM & Systems Enthusiast &nbsp;•&nbsp; 💻 IT Sophomore &nbsp;•&nbsp; 🚀 Problem Solver
 </p>
 
 ---
@@ -17,15 +17,15 @@
 ## 👩‍💻 About Me
 
 - 🎓 Student at **Netaji Subhas University of Technology (NSUT)**
-- 🧠 Strong interest in **systems, C++, graphs & spatial data structures**
-- 💼 Worked as **Software Development Intern**
+- 🧠 Deep passion for **AI/ML, Large Language Models, systems, C++, graphs & spatial data structures**
+- 💼 Experienced in building full-stack AI applications & financial orchestration engines like **ZenoFin**
 - 🤝 Active **Open Source Contributor** (MDN Web Docs, Boost C++)
 
 ### Open Source Contributions
--  **MDN Web Docs**
+- 🌐 **MDN Web Docs**
   - Improved CSS documentation clarity & spec alignment
   - Fixed misleading examples related to trigonometric functions & stacking context
--  **Boost C++ (boostorg/geometry)**
+- ⚡ **Boost C++ (boostorg/geometry)**
   - ✔️ Added regression test for non-overlapping polygon intersection (Issue #1439)
   - ✔️ PRs reviewed & approved by Boost maintainers
   - Experience contributing to **production-grade C++ OSS**
@@ -35,12 +35,23 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,boost,git,html,css,js,react,nodejs,express,mongodb,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,scikitlearn,git,html,css,js,react,nodejs,express,mongodb,vscode&theme=dark" />
 </p>
 
 ---
 
 ## 📂 Featured Projects
+
+### 💳 ZenoFin (AI Financial Orchestrator + Groq LLM)
+> Advanced financial statement parser and AI-driven transaction categorization engine
+
+- ⚡ Powered by **Groq LLM API** for lightning-fast unstructured PDF & CSV statement parsing (>95% accuracy)
+- 📊 **Glassmorphism-styled dashboard** for real-time transaction tracking and analytics
+- 💡 AI-driven financial insights, savings predictor tools, and structured INR formatting
+- 🛠️ Built with Node.js, Express, and modern web tech  
+🔗 [GitHub Repository](https://github.com/kashish2710/zenofin)
+
+---
 
 ### 🔷 MX-Quadtree + Channel Graph Integration (C++)
 > Advanced spatial data structure using **MX-Quadtree** integrated with **Boost Graph Library**
@@ -49,43 +60,25 @@
 - Insert / search / delete operations
 - Net & L-net intersection queries
 - Graph-based partition management using Boost  
-🔗 https://github.com/kashish2710/Quadtree-ChannelGraph
+🔗 [GitHub Repository](https://github.com/kashish2710/Quadtree-ChannelGraph)
 
 ---
 
 ### 🅿️ Park-Genie (Web + AI)
-> Smart parking assistant web app
+> Smart parking assistant web app powered by predictive intelligence
 
 - 🚗 Real-time unreserved slot availability
-- 📊 AI-based parking predictions
-- ⭐ Ratings and comments feature  
-🔗 https://github.com/kashish2710/park-genie
-
----
-
-### ☕ Coffee Beans
-> Clean & Starbucks inspired coffee shop landing page
-
-- HTML, CSS, JavaScript
-- Smooth UI & animations
-- Café-style design demo  
-🔗 https://github.com/kashish2710/Coffee_Beans-
-
----
-
-
-
----
-
-
+- 📊 AI/ML-based parking prediction models
+- ⭐ Ratings and interactive feedback features  
+🔗 [GitHub Repository](https://github.com/kashish2710/park-genie)
 
 ---
 
 ## 💻 Latest Coding Activity
 
-- Actively working on C++ data structures & algorithms
-- Contributing to documentation and OSS maintenance
-- Exploring AI + systems programming
+- Building LLM-powered applications and integrating high-speed inference APIs like Groq
+- Optimizing C++ data structures and algorithmic problem solving
+- Contributing to documentation and high-performance open-source libraries
 
 ---
 
@@ -108,7 +101,6 @@
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
- 
 </p>
 
 ---
@@ -120,4 +112,3 @@
 </p>
 
 ---
-
