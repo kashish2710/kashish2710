@@ -9,7 +9,7 @@
 <h2 align="center">👋 Hi, I'm Kashish</h2>
 
 <p align="center">
-  🌱 AI, LLM & Systems Enthusiast &nbsp;•&nbsp; 💻 IT Sophomore &nbsp;•&nbsp; 🚀 Full-Stack & CP Problem Solver
+  🌱 AI, LLM & Systems Enthusiast &nbsp;•&nbsp; 💻 IT Sophomore &nbsp;•&nbsp; 🚀 Full-Stack &  Problem Solver
 </p>
 
 ---
@@ -20,7 +20,6 @@
 - 🧠 Deep passion for **AI/ML, Large Language Models, Systems Programming, C++, Graphs & Spatial Data Structures**
 - 💼 Experienced in building high-performance full-stack web applications, AI orchestration engines, and developer tools
 - 🤝 Active **Open Source Contributor** (MDN Web Docs, Boost C++)
-- ⚡ Strong background in **Competitive Programming, Data Structures, and Algorithms**
 
 ### Open Source Contributions
 - 🌐 **MDN Web Docs**
@@ -72,16 +71,6 @@
 - 📊 AI/ML-based parking prediction models
 - ⭐ Ratings and interactive feedback features  
 🔗 [GitHub Repository](https://github.com/kashish2710/park-genie)
-
----
-
-### 🏫 NSUT Guide (Campus Navigator & Portal)
-> Comprehensive campus portal built for student convenience, featuring food ordering, lost & found, and society hubs
-
-- 🍕 Integrated real-time campus canteen ordering system with status tracking
-- 🔍 Dedicated Lost & Found portal with community verification loops
-- 🎨 Styled with a minimalist, clean, and modern UI featuring responsive components  
-🔗 [GitHub Repository](https://github.com/kashish2710/nsut-guide)
 
 ---
 
