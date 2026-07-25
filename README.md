@@ -48,7 +48,7 @@
 - ⚡ Powered by **Groq LLM API** for lightning-fast unstructured PDF & CSV statement parsing (>95% accuracy)
 - 📊 **Glassmorphism-styled dashboard** for real-time transaction tracking and analytics
 - 💡 AI-driven financial insights, automated savings predictor tools, and robust regex-based INR formatting
-- 🛠️ Built with Node.js, Express, Groq API, MongoDB, and modern web tech  
+- 🛠️ Built with Node.js, Express, Groq API, and modern web tech  
 🔗 [GitHub Repository](https://github.com/kashish2710/zenofin)
 
 ---
