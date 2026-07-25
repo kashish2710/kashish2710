@@ -9,7 +9,7 @@
 <h2 align="center">👋 Hi, I'm Kashish</h2>
 
 <p align="center">
-  🌱 AI, LLM & Systems Enthusiast &nbsp;•&nbsp; 💻 IT Sophomore &nbsp;•&nbsp; 🚀 Full-Stack &  Problem Solver
+  🌱 AI, LLM & Systems Enthusiast &nbsp;•&nbsp; 💻 IT Sophomore &nbsp;•&nbsp; 🚀 600+ Problems Solved Across Platforms
 </p>
 
 ---
@@ -18,6 +18,7 @@
 
 - 🎓 **IT Sophomore** at **Netaji Subhas University of Technology (NSUT)**
 - 🧠 Deep passion for **AI/ML, Large Language Models, Systems Programming, C++, Graphs & Spatial Data Structures**
+- 💻 **600+ problems solved** across LeetCode, Codeforces, and other competitive programming platforms
 - 💼 Experienced in building high-performance full-stack web applications, AI orchestration engines, and developer tools
 - 🤝 Active **Open Source Contributor** (MDN Web Docs, Boost C++)
 
@@ -76,8 +77,9 @@
 
 ## 💻 Latest Coding Activity
 
+- 🧠 Solved **600+ algorithmic problems** across LeetCode, Codeforces, and other competitive programming platforms
 - Building LLM-powered applications and integrating high-speed inference APIs like Groq
-- Optimizing C++ data structures, spatial algorithms, and competitive programming problems
+- Optimizing C++ data structures, spatial algorithms, and problem-solving patterns
 - Contributing to documentation and high-performance open-source libraries
 
 ---
