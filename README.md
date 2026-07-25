@@ -6,10 +6,10 @@
   <img src="https://raw.githubusercontent.com/kashish2710/kashish2710/output/github-contribution-grid-snake-dark.svg" />
 </p> -->
 
-<h2 align="center">👋 Hi, I'm Kashish</h2>
+<h2 align="center"> Hi, I'm Kashish</h2>
 
 <p align="center">
-  🌱 AI, LLM & Systems Enthusiast &nbsp;•&nbsp; 💻 IT Sophomore &nbsp;•&nbsp; 🚀 600+ Problems Solved Across Platforms
+  🌱 AI, LLM & Systems Enthusiast &nbsp;•&nbsp; 💻 IT Sophomore &nbsp;•&nbsp; 🚀 600+ DSA Problems Solved Across Platforms
 </p>
 
 ---
@@ -18,8 +18,8 @@
 
 - 🎓 **IT Sophomore** at **Netaji Subhas University of Technology (NSUT)**
 - 🧠 Deep passion for **AI/ML, Large Language Models, Systems Programming, C++, Graphs & Spatial Data Structures**
-- 💻 **600+ problems solved** across LeetCode, Codeforces, and other competitive programming platforms
-- 💼 Experienced in building high-performance full-stack web applications, AI orchestration engines, and developer tools
+- 💻 **600+ problems solved** across LeetCode, GFG, and other competitive programming platforms
+- 💼 Experienced in building high-performance full-stack web applications, AI-powered tools, and developer utilities
 - 🤝 Active **Open Source Contributor** (MDN Web Docs, Boost C++)
 
 ### Open Source Contributions
@@ -43,8 +43,8 @@
 
 ## 📂 Featured Projects
 
-### 💳 ZenoFin (AI Financial Orchestrator & Groq LLM)
-> Advanced financial statement parser and AI-driven automated transaction categorization engine
+### 💳 ZenoFin (AI Financial Statement Parser & Groq LLM)
+> Advanced financial statement parser and AI-driven automated transaction categorization app
 
 - ⚡ Powered by **Groq LLM API** for lightning-fast unstructured PDF & CSV statement parsing (>95% accuracy)
 - 📊 **Glassmorphism-styled dashboard** for real-time transaction tracking and analytics
@@ -76,8 +76,7 @@
 ---
 
 ## 💻 Latest Coding Activity
-
-- 🧠 Solved **600+ algorithmic problems** across LeetCode, Codeforces, and other competitive programming platforms
+- Learning Machine Learning fundamentals and implementing algorithms using Python and scikit-learn
 - Building LLM-powered applications and integrating high-speed inference APIs like Groq
 - Optimizing C++ data structures, spatial algorithms, and problem-solving patterns
 - Contributing to documentation and high-performance open-source libraries
