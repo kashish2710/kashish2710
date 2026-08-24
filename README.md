@@ -18,7 +18,7 @@
 
 - 🎓 **IT Sophomore** at **Netaji Subhas University of Technology (NSUT)**
 - 🧠 Deep passion for **AI/ML, Large Language Models, Systems Programming, C++, Graphs & Spatial Data Structures**
-- 💻 **600+ problems solved** across LeetCode, GFG, and other competitive programming platforms
+- 💻 **700+ problems solved** across LeetCode, GFG, and other competitive programming platforms
 - 💼 Experienced in building high-performance full-stack web applications, AI-powered tools, and developer utilities
 - 🤝 Active **Open Source Contributor** (MDN Web Docs, Boost C++)
 
