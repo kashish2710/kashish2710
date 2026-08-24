@@ -9,7 +9,7 @@
 <h2 align="center"> Hi, I'm Kashish</h2>
 
 <p align="center">
-  🌱 AI, LLM & Systems Enthusiast &nbsp;•&nbsp; 💻 IT Sophomore &nbsp;•&nbsp; 🚀 600+ DSA Problems Solved Across Platforms
+  🌱 AI, LLM & Systems Enthusiast &nbsp;•&nbsp; 💻 IT Sophomore &nbsp;•&nbsp; 🚀 700+ DSA Problems Solved Across Platforms
 </p>
 
 ---
