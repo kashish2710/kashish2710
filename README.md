@@ -50,7 +50,7 @@
 - 📊 **Glassmorphism-styled dashboard** for real-time transaction tracking and analytics
 - 💡 AI-driven financial insights, automated savings predictor tools, and robust regex-based INR formatting
 - 🛠️ Built with Node.js, Express, Groq API, and modern web tech  
-🔗 [GitHub Repository](https://github.com/kashish2710/zenofin)
+🔗 [GitHub Repository](https://github.com/kashish2710/zenofin](https://github.com/kashish2710/zeno-fin-ai))
 
 ---
 
